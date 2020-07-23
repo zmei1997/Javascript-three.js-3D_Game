@@ -1,0 +1,9 @@
+#end {
+  position: absolute;
+  color: red;
+  top: 300px;
+	width: 1300px;
+  text-align: center;
+  font-size: 50px;
+	display: none;
+}
